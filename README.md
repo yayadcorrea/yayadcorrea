@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá sejam muito bem-vindos ao meu perfil!
 
-<!--
-**yayadcorrea/yayadcorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Yas
 
-Here are some ideas to get you started:
+Estou cursando o Alura,
+e atualmente estou aprendendo javascript
+Utilizo esse espaço para organização e compartilhamento de meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Você pode entrar em contao comigo!!⭐
+@00001106569106sp@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/y1QFa-1vyKYAAAAC/plink-wide-cat.gif)
