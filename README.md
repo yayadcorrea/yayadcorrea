@@ -4,7 +4,8 @@ Me chamo Yas
 
 Estou cursando o Alura,
 e atualmente estou aprendendo javascript
-Utilizo esse espaço para organização e compartilhamento de meus projetos
+
+\Utilizo esse espaço para organização e compartilhamento de meus projetos
 
 Você pode entrar em contao comigo!!⭐
 @00001106569106sp@al.educacao.sp.gov.br
